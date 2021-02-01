@@ -44,9 +44,9 @@
                 @enderror
             </div>
             <div class="form-group">
-                <div class="btn btn-primary btn-block" type="submit">
+                <button class="btn btn-primary btn-block" type="submit">
                     Tambah Barang
-                </div>
+                </button>
             </div>
         </form>
     </div>
