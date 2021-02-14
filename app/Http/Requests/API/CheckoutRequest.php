@@ -4,8 +4,6 @@ namespace App\Http\Requests\API;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-use Illuminate\Foundation\Http\FormRequest;
-
 class CheckoutRequest extends FormRequest
 {
     /**
